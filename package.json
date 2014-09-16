@@ -1,0 +1,11 @@
+{
+  "name": "TableBook",
+  "version": "0.0.0",
+  "description": "",
+  "dependencies": {
+    "express": "4.9.0",
+    "k-router": "0.2.0",
+    "underscore": "1.7.0"
+  },
+  "devDependencies": {}
+}
